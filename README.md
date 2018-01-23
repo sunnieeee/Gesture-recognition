@@ -1,4 +1,4 @@
 # Gesture-recognition
-By Thinkfly Studio
-By caoyuqing yanghaomai yanrudan zenghongyi zhuhuashi
-By guabguo
+By Thinkfly Studio.
+By caoyuqing yanghaomai yanrudan zenghongyi zhuhuashi.
+By guabguo.
